@@ -7,13 +7,16 @@ def my_each(array) # put argument(s) here
     yield array[i]
     i = i + 1
   end
-  
-  
-    array
-else
-  puts "Hey! No block was given!"
-  end
 end
+end
+end
+  
+  
+    # array
+# else
+#   puts "Hey! No block was given!"
+#   end
+# end
 
 
 
