@@ -12,11 +12,11 @@ end
 # end
   
   
-    # array
+    array
 # else
 #   puts "Hey! No block was given!"
 #   end
-# end
+end
 
 
 
